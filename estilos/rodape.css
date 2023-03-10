@@ -1,0 +1,14 @@
+
+.rodape__linha{
+    margin: 1em 0;
+    color: var(--cinza);
+}
+
+.rodape__descricao{
+    padding-left: 1.7em;
+    font-size: 16px;
+    font-weight: 400;
+    color: black;
+    margin-bottom: 1em;
+}
+
